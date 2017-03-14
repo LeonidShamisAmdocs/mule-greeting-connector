@@ -1,10 +1,10 @@
 # MuleGreeting Release Notes
 # --------------------------------------------------------------------
 # Date: <DD-MMM-YYYY>
-Example: 24-Jan-2015
+Example: 14-Mar-2017
 # Version: (default value: 0.1)
 # Supported API versions: 
-Example: Salesforce Bulk API v.28, SOAP API V.28 (include links to API docs)
+Example: MuleSoft 3.7+
 # Supported Mule Runtime Versions: 
 ${project.devkitVersion}
 # New Features and Functionality
